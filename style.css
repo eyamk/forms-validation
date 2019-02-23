@@ -1,0 +1,32 @@
+body{
+    background-image:url("bg.jpg");
+    display: flex;
+    justify-content:center;
+    align-content: space-around; 
+
+}
+.couleur{
+    background: transparent
+}
+label{
+    color:white
+}
+.boutton1{
+    width:100%;
+    margin:10px -1px;
+    color:white;
+}
+input{
+    background-color: rgb(45, 23, 65);
+    color:white
+   
+}
+.comentaire{
+    padding:20px 0px;
+}
+
+.form-control{
+background-color: rgb(45, 23, 65);
+margin:0px -10px;
+}
+
